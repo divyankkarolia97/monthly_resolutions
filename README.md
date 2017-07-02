@@ -22,9 +22,16 @@ The monthly_resolutions is mobile responsive and can function like a breeze on a
 DESKTOP:
 
 
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(%20Desktop%20).jpg "Screenshot(Desktop)")
+![Alt text](https://github.com/divyankkarolia97/monthly_resolutions/blob/master/Screenshots/Screenshot(Desktop).jpg "Screenshot(Desktop)")
+
+
+TABLET:
+
+
+![Alt text](https://github.com/divyankkarolia97/monthly_resolutions/blob/master/Screenshots/Screenshot(Tablet).PNG "Screenshot(Tablet)")
+
 
 MOBILE:
 
 
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(%20Mobile%20).PNG "Screenshot(Desktop)")
+![Alt text](https://github.com/divyankkarolia97/monthly_resolutions/blob/master/Screenshots/Screenshot(Mobile).PNG "Screenshot(Mobile)")
