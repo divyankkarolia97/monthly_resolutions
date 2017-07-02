@@ -1,0 +1,16 @@
+
+h1{
+    text-align: center;
+    margin: 25px;
+    font-family: "Times New Roman";
+    font-size: 50px;
+}
+
+.input-group{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#list{
+    padding: 15px;
+}
